@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikSaladi047
 - 👀 I’m interested in DevOps Methodology
 - 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to explore more technologies, make way towards DevOps & cloud career
 - 📫 How to reach me karthiksaladi047@gmail.com
 
 <!---
