@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarthikSaladi047
+- 👋 Hi, I’m Karthik Saladi
 - 👀 I’m interested in DevOps Methodology
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to explore more technologies, to make my way towards DevOps & cloud career.
