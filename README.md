@@ -1,4 +1,3 @@
-# About Me
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
   <div id="badges">
@@ -12,10 +11,11 @@
 ---
 
 <div  align="center">
-    <b size="20">hey there</b>
+    <h2>hey there</h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
- </div>
+</div>
  
+---
 ### :man_technologist: About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
