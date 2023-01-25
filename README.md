@@ -42,7 +42,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?KarthikSaladi047&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikSaladi047&theme=dark&hide_border=true&border_radius=60&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 KarthikSaladi047/KarthikSaladi047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
