@@ -1,3 +1,14 @@
+### :man_technologist: About Me :
+I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Karthik Saladi
+- 👀 I’m interested in DevOps Methodology
+- 🌱 I’m currently learning DevOps tools
+- 💞️ I’m looking to explore more technologies, to make my way towards DevOps & cloud career.
+- 📫 How to reach me karthiksaladi047@gmail.com
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
   <div id="badges">
@@ -8,16 +19,6 @@
   </div>
 </div>
 
----
-
-### :man_technologist: About Me :
-I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Karthik Saladi
-- 👀 I’m interested in DevOps Methodology
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to explore more technologies, to make my way towards DevOps & cloud career.
-- 📫 How to reach me karthiksaladi047@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
