@@ -7,19 +7,11 @@
       <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-
----
-
-<div  align="center">
-    <h2>hey there</h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</div>
- 
 ---
 ### :man_technologist: About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 👋 Hi, I’m Karthik Saladi
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Karthik Saladi
 - 👀 I’m interested in DevOps Methodology
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to explore more technologies, to make my way towards DevOps & cloud career.
