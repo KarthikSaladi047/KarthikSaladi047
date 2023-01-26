@@ -52,6 +52,7 @@
 - Spotify Clone: https://karthiksaladi047.github.io/Spotify_Clone/
 - Budget App: https://karthiksaladi047.github.io/BudgetApp/
 - Weather App: https://karthiksaladi047.github.io/Weather_Report/
+- To Do List: https://to-do-list.karthiksaladi04.repl.co/
 - React App: https://master--lovely-treacle-38d3ce.netlify.app/
 
 ### :writing_hand: Projects :
