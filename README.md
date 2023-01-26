@@ -1,5 +1,4 @@
 ### :man_technologist: About Me :
-I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Karthik Saladi
 - 👀 I’m interested in DevOps Methodology
@@ -47,8 +46,18 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSaladi047&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/> : My Github Pages :
 
-### :writing_hand: Blog Posts :
+- Profolio: https://karthiksaladi047.github.io/Portfolio/
+- Spotify Clone: https://karthiksaladi047.github.io/Spotify_Clone/
+- Budget App: https://karthiksaladi047.github.io/BudgetApp/
+- Weather App: https://karthiksaladi047.github.io/Weather_Report/
+- React App: https://master--lovely-treacle-38d3ce.netlify.app/
+
+### :writing_hand: Projects :
+- Azure Pipeline Project: https://github.com/KarthikSaladi047/Azure-Pipeline-Project
+- Jenkins Project: https://github.com/KarthikSaladi047/Jenkins-Project
+- Ansible Project: https://github.com/KarthikSaladi047/Ansible-Project
 
 <!---
 KarthikSaladi047/KarthikSaladi047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
