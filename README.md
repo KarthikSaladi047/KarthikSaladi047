@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://1.bp.blogspot.com/-kpMC_6UfWFo/XjbbfXMxcTI/AAAAAAAAAQg/jqmPdjBp7fQ6SLon0drOHTUyOOHKC3QMACLcBGAsYHQ/s1600/Elasticsearch.png" title="elastic" alt="elastic" width="40" height="40"/>&nbsp;
 </div>
 
 ---
