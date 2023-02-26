@@ -62,6 +62,7 @@
 - Azure Pipeline Project: https://github.com/KarthikSaladi047/Azure-Pipeline-Project
 - Jenkins Project: https://github.com/KarthikSaladi047/Jenkins-Project
 - Ansible Project: https://github.com/KarthikSaladi047/Ansible-Project
+- Kubernetes from Scratch Project: https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project
 
 <!---
 KarthikSaladi047/KarthikSaladi047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
