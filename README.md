@@ -22,9 +22,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" title="kubernetes" alt="kubernetes" width="80" height="40"/>&nbsp;
-  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="60"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="60" height="40"/>&nbsp;
-  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="docker" alt="docker " width="40" height="40"/>&nbsp;
+  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="50"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="40" height="60"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="docker" alt="docker" width="60" height="40"/>&nbsp;
   <img src="https://stafwag.github.io/blog/images/ansible-logo-red-t.png"  title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
