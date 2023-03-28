@@ -21,21 +21,22 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" title="kubernetes" alt="kubernetes" width="80" height="40"/>&nbsp;
-  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="50"/>&nbsp;
+  <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="40" height="60"/>&nbsp;
-  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="docker" alt="docker" width="60" height="40"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="docker" alt="docker" width="65" height="40"/>&nbsp;
   <img src="https://stafwag.github.io/blog/images/ansible-logo-red-t.png"  title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://blog.desdelinux.net/wp-content/uploads/2016/04/ubuntu.png" title="ubuntu" alt="ubuntu" width="50" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" title="linux" alt="linux" width="60" height="40"/>&nbsp;
+  <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/bash-icon_0.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://iconape.com/wp-content/files/gq/111028/png/ubuntu-2.png" title="ubuntu" alt="ubuntu" width="50" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://www.mobilise.cloud/wp-content/uploads/2020/11/Elasticsearch-Logo-Color-V.png" title="elastic" alt="elastic" width="80" height="40"/>&nbsp;
-  <img src="https://logos-marques.com/wp-content/uploads/2021/03/Linux-Logo.png" title="linuxlinux" alt="linux" width="60" height="40"/>&nbsp;
   <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://tech.bodyfitstation.com/wp-content/uploads/2016/11/git-logo.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://compo.sr/data_custom/images/docs/tut_windows/apache.png" title="apache" alt="apache" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://coder.clothing/images/stories/virtuemart/product/resized/react-logo_418x418.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" title="mongodbmongodb" alt="mongodb" width="50" height="50"/>&nbsp;
