@@ -23,16 +23,16 @@
 <div>
   <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="40" height="60"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="35" height="50"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" title="docker" alt="docker" width="65" height="40"/>&nbsp;
   <img src="https://stafwag.github.io/blog/images/ansible-logo-red-t.png"  title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" title="linux" alt="linux" width="60" height="40"/>&nbsp;
-  <img src="https://www.linuxjournal.com/sites/default/files/styles/360_250/public/nodeimage/story/bash-icon_0.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" title="linux" alt="linux" width="40" height="50"/>&nbsp;
+  <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://iconape.com/wp-content/files/gq/111028/png/ubuntu-2.png" title="ubuntu" alt="ubuntu" width="50" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://www.mobilise.cloud/wp-content/uploads/2020/11/Elasticsearch-Logo-Color-V.png" title="elastic" alt="elastic" width="80" height="40"/>&nbsp;
+  <img src="https://www.outsourcing-web.com/wp-content/uploads/2018/09/elastic-elasticsearch-logo-png-transparent-300x300.png" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://tech.bodyfitstation.com/wp-content/uploads/2016/11/git-logo.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://compo.sr/data_custom/images/docs/tut_windows/apache.png" title="apache" alt="apache" width="40" height="40"/>&nbsp;
