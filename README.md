@@ -24,13 +24,13 @@
   <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" title="jenkins" alt="jenkins" width="35" height="50"/>&nbsp;
-  <img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/08/docker_logo.png" title="docker" alt="docker" width="65" height="40"/>&nbsp;
+  <img src="https://storage.googleapis.com/cdn.patricktriest.com/blog/images/posts/elastic-library/docker.png" title="docker" alt="docker" width="65" height="40"/>&nbsp;
   <img src="https://stafwag.github.io/blog/images/ansible-logo-red-t.png"  title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
   <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/prometheus-logo-png-transparent.png" title="prometheus" alt="prometheus" width="40" height="50"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/prometheus-logo-png-transparent.png" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" title="linux" alt="linux" width="40" height="50"/>&nbsp;
   <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://agrtech.com.au/wp-content/uploads/2021/06/Ubuntu_Linux_Icon-480x480.png" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-512.png" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://www.outsourcing-web.com/wp-content/uploads/2018/09/elastic-elasticsearch-logo-png-transparent-300x300.png" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
