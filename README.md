@@ -51,16 +51,6 @@
 </table>
 
 ---
-
-### :fire: My Stats :
-<div id="stats" align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikSaladi047&theme=dark&hide_border=true&border_radius=60&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSaladi047&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="github" alt="github" width="40" height="40"/> : DevOps Projects :
 - Azure Pipeline Project: https://github.com/KarthikSaladi047/Azure-Pipeline-Project
 - Jenkins Project: https://github.com/KarthikSaladi047/Jenkins-Project
@@ -77,6 +67,15 @@
 - To Do List: https://to-do-list.karthiksaladi04.repl.co/
 - React App: https://master--lovely-treacle-38d3ce.netlify.app/
 
+---
+
+### :fire: My Stats :
+<div id="stats" align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikSaladi047&theme=dark&hide_border=true&border_radius=60&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSaladi047&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!---
