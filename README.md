@@ -51,7 +51,7 @@
 </table>
 
 ---
-### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="github" alt="github" width="40" height="40"/> : DevOps Projects :
+### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> : DevOps Projects :
 - Azure Pipeline Project: https://github.com/KarthikSaladi047/Azure-Pipeline-Project
 - Jenkins Project: https://github.com/KarthikSaladi047/Jenkins-Project
 - Ansible Project: https://github.com/KarthikSaladi047/Ansible-Project
