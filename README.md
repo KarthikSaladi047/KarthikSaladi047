@@ -12,55 +12,12 @@
   <tr>
      <td>
       <div>
-        <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png" title="azure" alt="azure" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="30"/>&nbsp;
-        <img src="https://www.tentwentyfour.lu/media/img/knowhow/ci/jenkins-400by552-0c87a8.png" title="jenkins" alt="jenkins" width="30" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.iconscout.com/icon/free/png-512/azure-devops-3628645-3029870.png" title="azureDevOps" alt="azureDevOps" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2015/01/docker-whale-home-logo.png" title="docker" alt="docker" width="60" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://stafwag.github.io/blog/images/ansible-logo-red-t.png"  title="ansible" alt="ansible" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://atix.de/wp-content/uploads/Terraform-Logo-1.png" title="terraform" alt="terraform" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/prometheus-logo-png-transparent.png" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://keestalkstech.com/wp-content/uploads/2019/08/bash-logo-300x300.png" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-512.png" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" title="python" alt="python" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://www.outsourcing-web.com/wp-content/uploads/2018/09/elastic-elasticsearch-logo-png-transparent-300x300.png" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://compo.sr/data_custom/images/docs/tut_windows/apache.png" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://coder.clothing/images/stories/virtuemart/product/resized/react-logo_418x418.png" title="React" alt="React" width="30" height="30"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
-        <img src="https://www.device42.com/wp-content/uploads/2019/07/jira-logo-gradient-blue@2x.png" title="jira" alt="jira" width="60" height="40"/>&nbsp;
-        <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
+        <img src="https://user-images.githubusercontent.com/105864615/229708857-616ab7b7-b4e2-4f2c-a5ab-dc6dc7e3a134.png" title="Tools" alt="Tools"/>
       </div>
     </td>
     <td>
       <div id="header" align="center">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400">
         <div id="badges">
             <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259">
               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
