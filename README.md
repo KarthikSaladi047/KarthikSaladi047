@@ -17,7 +17,8 @@
     </td>
     <td>
       <div id="header" align="center">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"><br>
+        <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt=""/>
       </div>
     </td>
   </tr>
@@ -26,8 +27,8 @@
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a><br>
-    <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt=""/>
+    </a>
+    
 </div>
 
 ---
