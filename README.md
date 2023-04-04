@@ -1,10 +1,19 @@
 ### :man_technologist: About Me :
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m Karthik Saladi
-- 👀 I’m interested in DevOps Methodology.
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m <b>Karthik Saladi</b>
+- 👀 I’m interested in <b>DevOps</b> Methodology.
 - 🌱 I’m currently exploring DevOps world.
-- 💞️ I’m looking to explore multiple cloud services, to make my way towards DevOps & cloud career.
+- 💞️ I’m looking to explore multiple cloud provider, to make my way towards DevOps & cloud career.
 - 📫 How to reach me -> karthiksaladi047@gmail.com
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259">
+    <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-25.png" width="110" height="26" alt="LinkedIn Badge"/>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -18,18 +27,10 @@
     <td>
       <div id="header" align="center">
         <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"><br>
-        <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt=""/>
       </div>
     </td>
   </tr>
 </table>
-
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    
-</div>
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> : DevOps Projects :
