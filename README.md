@@ -20,8 +20,8 @@
 <table>
   <tr>
      <td>
-      <div>
-        <img src="https://user-images.githubusercontent.com/105864615/229708857-616ab7b7-b4e2-4f2c-a5ab-dc6dc7e3a134.png" title="Tools" alt="Tools"/>
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/105864615/229983421-6f31f2de-4772-4525-aa89-1f16cc59e066.gif" />
       </div>
     </td>
     <td>
