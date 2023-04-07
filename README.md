@@ -8,16 +8,16 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259">
+<div align="center" width="100%">
+  <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259" width="25%">
     <img src="https://logos-marques.com/wp-content/uploads/2021/03/Linkedin-logo.png" width="140" height="100" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="100" height="100"/>
-  <a href="https://replit.com/@KarthikSaladi04">
+  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12.5%" height="100"/>
+  <a href="https://replit.com/@KarthikSaladi04" width="25%">
     <img src="https://user-images.githubusercontent.com/105864615/230608154-e628f6ba-7bc1-47a8-be1d-ff0adb7ab916.png" width="190" height="90" alt="replit"/>
   </a>
-  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="100" height="100"/>
-  <a href="https://medium.com/@karthiksaladidevops">
+  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12.5%" height="100"/>
+  <a href="https://medium.com/@karthiksaladidevops" width="25%">
     <img src="https://user-images.githubusercontent.com/105864615/230611999-ded89743-466b-4b92-ab12-a7a2b5f0e32a.png" width="220" height="80" alt="medium"/>
   </a>
   <br>
