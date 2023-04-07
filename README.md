@@ -17,16 +17,16 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<table>
+<table width="100%">
   <tr>
-     <td>
+     <td width="50%">
       <div align="center">
         <img src="https://user-images.githubusercontent.com/105864615/229983421-6f31f2de-4772-4525-aa89-1f16cc59e066.gif" />
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div id="header" align="center">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"><br>
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"><br>
       </div>
     </td>
   </tr>
