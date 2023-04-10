@@ -8,6 +8,7 @@
 
 ---
 
+### :sparkles: You can follow Me at :
 
 <div align="center" width="100%" height="140">
   <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259" >
@@ -15,12 +16,13 @@
   </a>
   <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12%" "90%"/>
   <a href="https://replit.com/@KarthikSaladi04">
-    <img src="https://user-images.githubusercontent.com/105864615/230608154-e628f6ba-7bc1-47a8-be1d-ff0adb7ab916.png" width="20%" height="90%" alt="replit"/>
+    <img src="https://user-images.githubusercontent.com/105864615/230608154-e628f6ba-7bc1-47a8-be1d-ff0adb7ab916.png" width="22%" height="90%" alt="replit"/>
   </a>
   <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12%" "90%"/>
   <a href="https://medium.com/@karthiksaladidevops" >
     <img src="https://user-images.githubusercontent.com/105864615/230611999-ded89743-466b-4b92-ab12-a7a2b5f0e32a.png" width="20%" height="90%" alt="medium"/>
   </a>
+  <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt="views"/>
 </div>
