@@ -3,7 +3,7 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m <b>Karthik Saladi</b>
 - 👀 I’m interested in <b>DevOps</b> Methodology.
 - 🌱 I’m currently exploring DevOps world.
-- 💞️ I’m looking to explore multiple cloud provider, to make my way towards DevOps & cloud career.
+- 💞️ I’m exploring multiple cloud providers, to make my way towards DevOps & cloud career.
 - 📫 How to reach me -> karthiksaladi047@gmail.com
 
 ---
