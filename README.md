@@ -1,10 +1,11 @@
 ### :man_technologist: About Me :
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m <b>Karthik Saladi</b>
-- 👀 I’m interested in <b>DevOps</b> Methodology.
-- 🌱 I’m currently exploring DevOps world.
-- 💞️ I’m exploring multiple cloud providers, to make my way towards DevOps & cloud career.
+- 👀 Loves <b>DevOps</b> Methodology.
+- 🌱 Currently exploring DevOps world.
+- 💞️ Exited about new trends and technologies in DevOps and Cloud Computing.
 - 📫 How to reach me -> karthiksaladi047@gmail.com
+![github wallpaper]()
 
 ---
 
@@ -33,7 +34,7 @@
   <tr>
      <td width="50%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/105864615/229983421-6f31f2de-4772-4525-aa89-1f16cc59e066.gif" />
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105864615/272924563-ec4469b7-d69b-4855-8432-7657dc8ef354.gif" />
       </div>
     </td>
     <td width="50%">
@@ -51,6 +52,7 @@
 - Ansible Project: https://github.com/KarthikSaladi047/Ansible-Project
 - Kubernetes from Scratch Project: https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project
 - Jenkins + Scripting Project: https://github.com/KarthikSaladi047/maven-pipeline
+- Argocd Project: https://github.com/KarthikSaladi047/argocd-project
 
 ### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/> : My Github Pages :
 
