@@ -1,25 +1,22 @@
-### :man_technologist: About Me :
+### 🙋‍♂️: About Me :
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m <b>Karthik Saladi</b>
 - 👀 Loves <b>DevOps</b> Methodology.
 - 🌱 Currently exploring DevOps world.
 - 💞️ Exited about new trends and technologies in DevOps and Cloud Computing.
 - 📫 How to reach me -> karthiksaladi047@gmail.com
-![github wallpaper]()
 
 ---
 
-### :sparkles: You can follow Me at :
+### ✨: You can follow Me at :
 
 <div align="center" width="100%" height="140">
   <a href="https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259" >
     <img src="https://i2.wp.com/www.vectorico.com/wp-content/uploads/2018/02/Linkedin-full-logo.png" alt="LinkedIn Badge" width="20%" height="90%"/>
   </a>
-  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12%" "90%"/>
   <a href="https://replit.com/@KarthikSaladi04">
     <img src="https://user-images.githubusercontent.com/105864615/230608154-e628f6ba-7bc1-47a8-be1d-ff0adb7ab916.png" width="22%" height="90%" alt="replit"/>
   </a>
-  <img src="https://th.bing.com/th/id/R.7ac00e348edd34a34941c0c4d32482be?rik=EqQ4Z0KMdrnzDA&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVertical-Line-PNG-File.png&ehk=AxOafPa9UZu8CmwQaDPXmne7sLF79nBvd04T85fnMNQ%3d&risl=&pid=ImgRaw&r=0" width="12%" "90%"/>
   <a href="https://medium.com/@karthiksaladidevops" >
     <img src="https://user-images.githubusercontent.com/105864615/230611999-ded89743-466b-4b92-ab12-a7a2b5f0e32a.png" width="20%" height="90%" alt="medium"/>
   </a>
@@ -29,7 +26,7 @@
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <table width="100%">
   <tr>
      <td width="50%">
@@ -47,33 +44,31 @@
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> : DevOps Projects :
-- Azure Pipeline Project: https://github.com/KarthikSaladi047/Azure-Pipeline-Project
-- Jenkins Project: https://github.com/KarthikSaladi047/Jenkins-Project
-- Ansible Project: https://github.com/KarthikSaladi047/Ansible-Project
-- Kubernetes from Scratch Project: https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project
-- Jenkins + Scripting Project: https://github.com/KarthikSaladi047/maven-pipeline
-- Argocd Project: https://github.com/KarthikSaladi047/argocd-project
+- Azure Pipeline Project: <a> https://github.com/KarthikSaladi047/Azure-Pipeline-Project </a>
+- Jenkins Project: <a>https://github.com/KarthikSaladi047/Jenkins-Project</a>
+- Ansible Project: <a>https://github.com/KarthikSaladi047/Ansible-Project</a>
+- Kubernetes from Scratch Project: <a>https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project</a>
+- Jenkins + Scripting Project: <a>https://github.com/KarthikSaladi047/maven-pipeline</a>
+- Argocd Project: <a>https://github.com/KarthikSaladi047/argocd-project</a>
 
 ### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/> : My Github Pages :
 
-- Profolio: https://karthiksaladi047.github.io/Portfolio/
-- Spotify Clone: https://karthiksaladi047.github.io/Spotify_Clone/
-- Budget App: https://karthiksaladi047.github.io/BudgetApp/
-- Weather App: https://karthiksaladi047.github.io/Weather_Report/
-- To Do List: https://to-do-list.karthiksaladi04.repl.co/
-- React App: https://master--lovely-treacle-38d3ce.netlify.app/
+- Profolio: <a>https://karthiksaladi047.github.io/Portfolio/</a>
+- Spotify Clone: <a>https://karthiksaladi047.github.io/Spotify_Clone/</a>
+- Budget App: <a>https://karthiksaladi047.github.io/BudgetApp/</a>
+- Weather App: <a>https://karthiksaladi047.github.io/Weather_Report/</a>
+- To Do List: <a>https://to-do-list.karthiksaladi04.repl.co/</a>
+- React App: <a href="https://master--lovely-treacle-38d3ce.netlify.app">https://master--lovely-treacle-38d3ce.netlify.app/</a>
 
 ---
-
-### :fire: My Stats :
+ 
+### 🔥: My Stats :
 <div id="stats" align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthikSaladi047&theme=dark&hide_border=true&border_radius=60&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikSaladi047&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
 <!---
 KarthikSaladi047/KarthikSaladi047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
