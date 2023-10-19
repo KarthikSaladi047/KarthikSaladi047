@@ -44,20 +44,20 @@
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> : DevOps Projects :
-- Azure Pipeline Project: <a> https://github.com/KarthikSaladi047/Azure-Pipeline-Project </a>
-- Jenkins Project: <a>https://github.com/KarthikSaladi047/Jenkins-Project</a>
-- Ansible Project: <a>https://github.com/KarthikSaladi047/Ansible-Project</a>
-- Kubernetes from Scratch Project: <a>https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project</a>
-- Jenkins + Scripting Project: <a>https://github.com/KarthikSaladi047/maven-pipeline</a>
-- Argocd Project: <a>https://github.com/KarthikSaladi047/argocd-project</a>
+- Azure Pipeline Project: <a href="https://github.com/KarthikSaladi047/Azure-Pipeline-Project"> https://github.com/KarthikSaladi047/Azure-Pipeline-Project </a>
+- Jenkins Project: <a href="https://github.com/KarthikSaladi047/Jenkins-Project">https://github.com/KarthikSaladi047/Jenkins-Project</a>
+- Ansible Project: <a href="https://github.com/KarthikSaladi047/Ansible-Project">https://github.com/KarthikSaladi047/Ansible-Project</a>
+- Kubernetes from Scratch Project: <a href="https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project">https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project</a>
+- Jenkins + Scripting Project: <a href="https://github.com/KarthikSaladi047/maven-pipelinep">https://github.com/KarthikSaladi047/maven-pipeline</a>
+- Argocd Project: <a href="https://github.com/KarthikSaladi047/argocd-project">https://github.com/KarthikSaladi047/argocd-project</a>
 
 ### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/> : My Github Pages :
 
-- Profolio: <a>https://karthiksaladi047.github.io/Portfolio/</a>
-- Spotify Clone: <a>https://karthiksaladi047.github.io/Spotify_Clone/</a>
-- Budget App: <a>https://karthiksaladi047.github.io/BudgetApp/</a>
-- Weather App: <a>https://karthiksaladi047.github.io/Weather_Report/</a>
-- To Do List: <a>https://to-do-list.karthiksaladi04.repl.co/</a>
+- Profolio: <a href="https://karthiksaladi047.github.io/Portfolio">https://karthiksaladi047.github.io/Portfolio/</a>
+- Spotify Clone: <a href="https://karthiksaladi047.github.io/Spotify_Clone">https://karthiksaladi047.github.io/Spotify_Clone/</a>
+- Budget App: <a href="https://karthiksaladi047.github.io/BudgetApp/">https://karthiksaladi047.github.io/BudgetApp/</a>
+- Weather App: <a href="https://karthiksaladi047.github.io/Weather_Report/">https://karthiksaladi047.github.io/Weather_Report/</a>
+- To Do List: <a href="https://to-do-list.karthiksaladi04.repl.co/">https://to-do-list.karthiksaladi04.repl.co/</a>
 - React App: <a href="https://master--lovely-treacle-38d3ce.netlify.app">https://master--lovely-treacle-38d3ce.netlify.app/</a>
 
 ---
