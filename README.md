@@ -19,9 +19,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=plastic&logo=instagram&logoColor=red)](https://www.instagram.com/mr.karthik_saladi/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/karthiknaidu.saisampath/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=plastic&logo=twitter&logoColor=blue)](https://twitter.com/karthiksaladi)
-<span width="100%" height="100">
+
+<div width="100%" height="100" align="center">
   <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt="views"/>
-</span>
+</div>
 
 ---
 ### 🛠️: Languages and Tools :
