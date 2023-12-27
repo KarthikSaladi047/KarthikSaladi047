@@ -9,30 +9,25 @@
 ---
 
 ### ✨: You can follow Me at :
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"><br>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259/)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=plastic&logo=medium&labelColor=black)](https://medium.com/@karthiksaladidevops)
-[![Replit](https://img.shields.io/badge/Replit-Follow-green?style=flat-square&logo=replit&labelColor=green)](https://replit.com/@KarthikSaladi04)
-<span width="100%" height="140">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-white?style=plastic&logo=medium&labelColor=black)](https://medium.com/@karthiksaladidevops)
+[![Replit](https://img.shields.io/badge/Replit-Follow-orange?style=plastic&logo=replit&labelColor=green)](https://replit.com/@KarthikSaladi04)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=plastic&logo=instagram&logoColor=red)](https://www.instagram.com/mr.karthik_saladi/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/karthiknaidu.saisampath/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=plastic&logo=twitter&logoColor=blue)](https://twitter.com/karthiksaladi)
+<span width="100%" height="100">
   <img src="https://komarev.com/ghpvc/?username=KarthikSaladi047&style=flat-square&color=blue" alt="views"/>
 </span>
 
 ---
 ### 🛠️: Languages and Tools :
-<table width="100%">
-  <tr>
-     <td width="50%">
-      <div align="center">
-        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105864615/272924563-ec4469b7-d69b-4855-8432-7657dc8ef354.gif" />
-      </div>
-    </td>
-    <td width="50%">
-      <div id="header" align="center">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"><br>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105864615/272924563-ec4469b7-d69b-4855-8432-7657dc8ef354.gif" />
+</div>
 
 ---
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> : DevOps Projects :
