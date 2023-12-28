@@ -27,7 +27,7 @@
 ---
 ### 🛠️: Languages and Tools :
 <div align="center">
-  <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/5e64a3c0-75c8-4b2d-819c-41d0b646f0bd.gif" />
+  <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/b8a9e932-7db2-47c7-b6e5-b257107006b9.gif" />
 </div>
 
 ---
