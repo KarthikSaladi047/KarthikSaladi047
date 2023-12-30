@@ -50,12 +50,13 @@
 
 ### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/> : My Github Pages :
 
+- 🧳 React Based Profolio: <a href="https://karthik-saladi.netlify.app/">https://karthik-saladi.netlify.app/</a>
 - 📝 Profolio: <a href="https://karthiksaladi047.github.io/Portfolio">https://karthiksaladi047.github.io/Portfolio/</a>
 - 🎧 Spotify Clone: <a href="https://karthiksaladi047.github.io/Spotify_Clone">https://karthiksaladi047.github.io/Spotify_Clone/</a>
 - 💰 Budget App: <a href="https://karthiksaladi047.github.io/BudgetApp/">https://karthiksaladi047.github.io/BudgetApp/</a>
 - 🌦️ Weather App: <a href="https://karthiksaladi047.github.io/Weather_Report/">https://karthiksaladi047.github.io/Weather_Report/</a>
 - 📌 To Do List: <a href="https://to-do-list.karthiksaladi04.repl.co/">https://to-do-list.karthiksaladi04.repl.co/</a>
-- 🌐 React App: <a href="https://master--lovely-treacle-38d3ce.netlify.app">https://master--lovely-treacle-38d3ce.netlify.app/</a>
+- 🌐 React App: <a href="https://karthik-react-webpage.netlify.app/">https://karthik-react-webpage.netlify.app/</a>
 
 ---
  
