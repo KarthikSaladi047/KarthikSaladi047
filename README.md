@@ -1,16 +1,23 @@
-### 🙋‍♂️: About Me :
+### Hey there 🙋‍♂️, I'm **Karthik Saladi**! 👋
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I’m <b>Karthik Saladi</b>
-- 👀 Loves <b>DevOps</b> Methodology.
-- 🌱 Currently exploring Cool world of Containers.
-- 💞️ Exited about new trends and technologies in DevOps and Cloud Computing.
-- 📫 How to reach me -> karthiksaladi047@gmail.com
+- 👀 Passionate about **DevOps** Methodology, orchestrating seamless development-to-deployment pipelines.
+- 🌱 Currently delving into the fascinating world of Containers, exploring their scalability and efficiency.
+- 💞️ Excited about emerging trends in DevOps and Cloud Computing, eager to integrate innovative solutions.
+- 📚 Embracing the joy of perpetual learning, constantly evolving in the realms of tech.
+- 📫 Reach out to me at: karthiksaladi047@gmail.com
+
+[**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
 
 ---
 
 ### ✨: You can follow Me at :
+<!---
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"><br>
+</div>
+--->
+<div align="center">
+    <img src="https://www.bitsystechnologies.com/wp-content/uploads/2022/03/DevOps.gif"><br>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-white?style=plastic&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sai-sampath-karthik-saladi-76a42a259/)
