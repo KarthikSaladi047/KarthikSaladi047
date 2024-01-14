@@ -4,7 +4,7 @@
 - 🌱 Currently delving into the fascinating world of Containers, exploring their scalability and efficiency.
 - 💞️ Excited about emerging trends in DevOps and Cloud Computing, eager to integrate innovative solutions.
 - 📚 Embracing the joy of perpetual learning, constantly evolving in the realms of tech.
-- 📫 Reach out to me at: karthiksaladi047@gmail.com
+- 📫 Reach out to me at: karthiksaladidevops@outlook.com
 
 [**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
 
