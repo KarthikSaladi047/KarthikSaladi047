@@ -1,8 +1,8 @@
 <div align="center">
-    
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!+" alt="Typing SVG" /></a><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72296&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Explore+the+World+of+Cloud+%26+DevOps" alt="Typing SVG" /></a></h1>
+
+#  Hey there 🙋‍♂️, I'm **Karthik Saladi**! 
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72296&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Explore+the+World+of+Cloud+%26+DevOps" alt="Typing SVG" /></a></p>
 
 <table>
   <tr>
