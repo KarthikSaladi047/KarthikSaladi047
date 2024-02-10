@@ -99,27 +99,22 @@ Welcome to my GitHub Profile
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react_js" width="60" height="60"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/835865f4-069c-404c-a6be-07f24f92c231.png" alt="Java_script" width="120" height="60"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/835865f4-069c-404c-a6be-07f24f92c231.png" alt="Java_script" width="90" height="60"/></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="100" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo_db" width="140" height="60"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo_db" width="110" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="60" height="60"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="140" height="60"/></a>&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="110" height="60"/></a>&nbsp;&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/></a> &nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="140" height="60"/></a>
-</p>
-<p align="center">  
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="isto" width="140" height="60"/></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs_code" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/2afab859-16cb-42cc-8d5b-ace49a332e24.png" alt="share_point" width="90" height="60"/></a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="isto" width="110" height="60"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="100" height="60"/></a>
 </p>
 <!---
 <p align="center">
