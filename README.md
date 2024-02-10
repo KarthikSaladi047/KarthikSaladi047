@@ -1,7 +1,9 @@
 <div align="center">
     
-### Hey there 🙋‍♂️, I'm **Karthik Saladi**! 👋
-Welcome to my GitHub Profile
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!+" alt="Typing SVG" /></a><br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72296&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Explore+the+World+of+Cloud+%26+DevOps" alt="Typing SVG" /></a></h1>
+
 <table>
   <tr>
     <td><img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;"></td>
@@ -17,6 +19,7 @@ Welcome to my GitHub Profile
     </td>
   </tr>
 </table>
+
 
 <!---
 - 👀 Passionate about **DevOps** Methodology, orchestrating seamless development-to-deployment pipelines.
