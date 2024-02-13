@@ -135,6 +135,7 @@
 - 🎡 Kubernetes from Scratch Project: <a href="https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project">https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project</a>
 - 🧑🏻‍💻 Jenkins + Scripting Project: <a href="https://github.com/KarthikSaladi047/maven-pipelinep">https://github.com/KarthikSaladi047/maven-pipeline</a>
 - 🏗️ Argocd Project: <a href="https://github.com/KarthikSaladi047/argocd-project">https://github.com/KarthikSaladi047/argocd-project</a>
+- 🔎 Prometheus  Monitoring: <a href="https://github.com/KarthikSaladi047/Prometheus-Monitoring">https://github.com/KarthikSaladi047/Prometheus-Monitoring</a>
 
 ### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/>  My Github Pages :
 
