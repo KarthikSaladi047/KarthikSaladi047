@@ -137,7 +137,7 @@
 - 🏗️ Argocd Project: <a href="https://github.com/KarthikSaladi047/argocd-project">https://github.com/KarthikSaladi047/argocd-project</a>
 - 🔎 Prometheus  Monitoring: <a href="https://github.com/KarthikSaladi047/Prometheus-Monitoring">https://github.com/KarthikSaladi047/Prometheus-Monitoring</a>
 
-### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/>  My Github Pages :
+### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/>  Web Development Projects :
 
 - 🧳 React Based Portfolio: <a href="https://karthik-saladi.netlify.app/">https://karthik-saladi.netlify.app/</a>
 - 📝 Portfolio: <a href="https://karthiksaladi047.github.io/Portfolio">https://karthiksaladi047.github.io/Portfolio/</a>
