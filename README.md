@@ -4,9 +4,11 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72296&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Explore+the+World+of+Cloud+%26+DevOps" alt="Typing SVG" /></a></p>
 
+<!---
+<img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;">
 <table>
   <tr>
-    <td><img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;"></td>
+    <td></td>
     <td>
       <ul>
         <li>👀 Passionate about <b>DevOps</b> Methodology, orchestrating seamless development-to-deployment pipelines.</li>
@@ -19,21 +21,19 @@
     </td>
   </tr>
 </table>
+--->
+<div align="left">
 
-
-<!---
 - 👀 Passionate about **DevOps** Methodology, orchestrating seamless development-to-deployment pipelines.
 - 🌱 Currently delving into the fascinating world of Containers, exploring their scalability and efficiency.
 - 💞️ Excited about emerging trends in DevOps and Cloud Computing, eager to integrate innovative solutions.
 - 📚 Embracing the joy of perpetual learning, constantly evolving in the realms of tech.
 - 📫 Reach out to me at: karthiksaladidevops@outlook.com
 
-[**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
-
---->
+- [**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
 
 ---
-<div align="left">
+
     
 ### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> DevOps Projects :
 - 🚀 Azure Pipeline Project: <a href="https://github.com/KarthikSaladi047/Azure-Pipeline-Project"> https://github.com/KarthikSaladi047/Azure-Pipeline-Project </a>
