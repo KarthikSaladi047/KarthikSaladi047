@@ -1,9 +1,11 @@
 <div align="center">
 
-#  Hey there 🙋‍♂️, I'm **Karthik Saladi**! 
+
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72296&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Explore+the+World+of+Cloud+%26+DevOps" alt="Typing SVG" /></a></p>
 
+#  Hey there 🙋‍♂️, I'm **Karthik Saladi**! 
+[**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
 <!---
 <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;">
 <table>
@@ -24,18 +26,18 @@
 --->
 <div align="left">
 
+### ⭐️ About Me :
+
 - 👀 Passionate about **DevOps** Methodology, orchestrating seamless development-to-deployment pipelines.
 - 🌱 Currently delving into the fascinating world of Containers, exploring their scalability and efficiency.
 - 💞️ Excited about emerging trends in DevOps and Cloud Computing, eager to integrate innovative solutions.
 - 📚 Embracing the joy of perpetual learning, constantly evolving in the realms of tech.
 - 📫 Reach out to me at: karthiksaladidevops@outlook.com
 
-- [**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
-
 ---
 
     
-### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" title="Projects" alt="Projects" width="40" height="40"/> DevOps Projects :
+### ♾️ DevOps Projects :
 - 🚀 Azure Pipeline Project: <a href="https://github.com/KarthikSaladi047/Azure-Pipeline-Project"> https://github.com/KarthikSaladi047/Azure-Pipeline-Project </a>
 - 🤖 Jenkins Project: <a href="https://github.com/KarthikSaladi047/Jenkins-Project">https://github.com/KarthikSaladi047/Jenkins-Project</a>
 - 🔧 Ansible Project: <a href="https://github.com/KarthikSaladi047/Ansible-Project">https://github.com/KarthikSaladi047/Ansible-Project</a>
@@ -44,7 +46,7 @@
 - 🏗️ Argocd Project: <a href="https://github.com/KarthikSaladi047/argocd-project">https://github.com/KarthikSaladi047/argocd-project</a>
 - 🔎 Prometheus  Monitoring: <a href="https://github.com/KarthikSaladi047/Prometheus-Monitoring">https://github.com/KarthikSaladi047/Prometheus-Monitoring</a>
 
-### <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" title="github" alt="github" width="40" height="40"/>  Web Development Projects :
+### 🌐 Web Development Projects :
 
 - 🧳 React Based Portfolio: <a href="https://karthik-saladi.netlify.app/">https://karthik-saladi.netlify.app/</a>
 - 📝 Portfolio: <a href="https://karthiksaladi047.github.io/Portfolio">https://karthiksaladi047.github.io/Portfolio/</a>
@@ -52,7 +54,7 @@
 - 💰 Budget App: <a href="https://karthiksaladi047.github.io/BudgetApp/">https://karthiksaladi047.github.io/BudgetApp/</a>
 - 🌦️ Weather App: <a href="https://karthiksaladi047.github.io/Weather_Report/">https://karthiksaladi047.github.io/Weather_Report/</a>
 - 📌 To Do List: <a href="https://to-do-list.karthiksaladi04.repl.co/">https://to-do-list.karthiksaladi04.repl.co/</a>
-- 🌐 React App: <a href="https://karthik-react-webpage.netlify.app/">https://karthik-react-webpage.netlify.app/</a>
+- 🔯 React App: <a href="https://karthik-react-webpage.netlify.app/">https://karthik-react-webpage.netlify.app/</a>
 
 ---
 <div align="left">
