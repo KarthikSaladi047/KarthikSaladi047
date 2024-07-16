@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&duration=2000&pause=1000&color=71F7AA&background=A2FF2300&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!;%F0%9F%91%8B%F0%9F%8F%BB++Welcome+to+my+GitHub+Profile+" alt="Typing SVG" /></a></p>
+<snap><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F7B5&width=435&height=30&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!+;%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+GitHub+Profile+" alt="Typing SVG" /></a></snap>
 <!---
 <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;">
 <table>
