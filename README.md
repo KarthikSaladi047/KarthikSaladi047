@@ -27,16 +27,15 @@
 - 🌱 Currently delving into the fascinating world of Containers, exploring their scalability and efficiency.
 - 💞️ Excited about emerging trends in DevOps and Cloud Computing, eager to integrate innovative solutions.
 - 📚 Embracing the joy of perpetual learning, constantly evolving in the realms of tech.
-- 📫 Reach out to me at: karthiksaladidevops@outlook.com
+- 📫 Reach out to me at my [**Email**](mailto:karthiksaladidevops@outlook.com) and also [**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
+
 
 ### 👑 Expertise :
-- **Cloud Platforms**: Extensive experience with AWS, Azure, Google Cloud Platform (GCP), and OpenStack.
-- **Container Orchestration**: Skilled in Kubernetes, managing and scaling containerized applications.
-- **Certifications**: 
-  - Multiple cloud certifications (4xAzure, 2xAWS, 1xGCP, 1xOCI).
-  - Certified Kubernetes Administrator (CKA).
-- **OpenStack**: Proficient in deploying, managing, and scaling OpenStack environments for private cloud solutions.
-- [**Check out my portfolio to explore my work and expertise.**](https://karthik-saladi.netlify.app/)
+- **Cloud Platforms:** Extensive experience with AWS, Azure, Google Cloud. Multiple cloud certifications (4xAzure, 2xAWS, 1xGCP, 1xOCI).
+- **Container Orchestration:** Skilled in Kubernetes, managing and scaling containerized applications, with expertise in managing the entire Kubernetes environment.
+ Certified Kubernetes Administrator (CKA).
+- **OpenStack:** Proficient in deploying, managing, and scaling OpenStack environments for private cloud solutions.
+- **DevOps Skillset:** Implement CICD pipelines with Jenkins, TeamCity & Azure DevOps, IaC with Terraform, scripting with python & Bash, Configuration management with Ansible, Monitoring with Prometheus and soon.
 
 ---
 
