@@ -77,6 +77,8 @@
 </p>
 
 ---
+
+<!---
 <div align="left">
 
 ### ♾️ DevOps Projects :
@@ -97,6 +99,39 @@
 - 🌦️ Weather App: <a href="https://karthiksaladi047.github.io/Weather_Report/">https://karthiksaladi047.github.io/Weather_Report/</a>
 - 📌 To Do List: <a href="https://to-do-list.karthiksaladi04.repl.co/">https://to-do-list.karthiksaladi04.repl.co/</a>
 - 🔯 React App: <a href="https://karthik-react-webpage.netlify.app/">https://karthik-react-webpage.netlify.app/</a>
+-->
+
+### 🔬 Projects :
+<div align="center">
+
+<table>
+  <tr>
+    <th width="350">DevOps</th>
+    <th width="350">Web Development</th>
+  </tr>
+  <tr>
+    <td>
+      <li>🚀 <a href="https://github.com/KarthikSaladi047/Azure-Pipeline-Project">Azure Pipeline Project</a></li>
+      <li>🤖 <a href="https://github.com/KarthikSaladi047/Jenkins-Project">Jenkins Project</a></li>
+      <li>🔧 <a href="https://github.com/KarthikSaladi047/Ansible-Project">Ansible Project</a></li>
+      <li>🎡 <a href="https://github.com/KarthikSaladi047/Kubernetes-from-Scratch-Project">Kubernetes from Scratch Project</a></li>
+      <li>🧑🏻‍💻 <a href="https://github.com/KarthikSaladi047/maven-pipelinep">Jenkins + Scripting Project</a></li>
+      <li>🏗️ <a href="https://github.com/KarthikSaladi047/argocd-project">Argocd Project</a></li>
+      <li>🔎 <a href="https://github.com/KarthikSaladi047/Prometheus-Monitoring">Prometheus  Monitoring</a></li>
+    </td>
+    <td>
+      <ul>
+        <li>🧳 <a href="https://karthik-saladi.netlify.app/">React Based Portfolio</a></li>
+        <li>📝 <a href="https://karthiksaladi047.github.io/Portfolio">Portfolio</a></li>
+        <li>🎧 <a href="https://karthiksaladi047.github.io/Spotify_Clone">Spotify Clone</a></li>
+        <li>💰 <a href="https://karthiksaladi047.github.io/BudgetApp/">Budget App</a></li>
+        <li>🌦️ <a href="https://karthiksaladi047.github.io/Weather_Report/">Weather App</a></li>
+        <li>📌 <a href="https://to-do-list.karthiksaladi04.repl.co/">To Do List</a></li>
+        <li>🔯 <a href="https://karthik-react-webpage.netlify.app/">React App</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 <div align="left">
