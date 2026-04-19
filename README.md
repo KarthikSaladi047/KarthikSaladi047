@@ -1,8 +1,8 @@
 <div align="center">
 
-<snap><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F7B5&width=435&height=30&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!+;%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+GitHub+Profile+" alt="Typing SVG" /></a></snap>
+<snap><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F7B5&width=435&height=30&lines=Hey+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Karthik+Saladi!+%F0%9F%91%8B%F0%9F%8F%BB+Welcome+to+my+GitHub+Profile+" alt="Typing SVG" /></a></snap>
 <!---
-<img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%;">
+<img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/57096ec8-61fe-4d01-8b35-7036bd9c455e" style="width: 100%">
 <table>
   <tr>
     <td></td>
@@ -40,40 +40,8 @@
 ---
 
 ### 🧰 Tech Stack :
-<p align="center"> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/en-in/products/devops/"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/c08400fe-f179-4af0-9db0-33dbb52dac01.png" alt="azure_devops" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkis" width="30" height="30"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git_hub" width="30" height="30"/></a>
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic_search" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react_js" width="30" height="30"/></a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/835865f4-069c-404c-a6be-07f24f92c231.png" alt="Java_script" width="45" height="30"/></a>
-    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="50" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo_db" width="55" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="30" height="30"/></a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="55" height="30"/></a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="35" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="30" height="30"/></a> &nbsp;&nbsp;
-    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="isto" width="55" height="30"/></a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="50" height="20"/></a>
+<p align="center">
+<a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" hspace="6"/></a><a href="https://azure.microsoft.com/en-in/products/devops/"><img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/c08400fe-f179-4af0-9db0-33dbb52dac01.png" width="30" hspace="6"/></a><a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="30" hspace="6"/></a><a href="https://www.terraform.io/"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="30" hspace="6"/></a><a href="https://www.openstack.org/"><img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" width="30" hspace="6"/></a><a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="30" hspace="6"/></a><a href="https://www.ansible.com/"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="30" hspace="6"/></a><a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" hspace="6"/></a><a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="30" hspace="6"/></a><a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="30" hspace="6"/></a><a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="70" hspace="10"/></a><a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" hspace="6"/></a><a href="https://argoproj.github.io/cd/"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="30" hspace="6"/></a><a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30" hspace="6"/></a><a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="30" hspace="6"/></a><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" hspace="6"/></a><a href="https://www.elastic.co/"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="30" hspace="6"/></a><a href="https://www.rust-lang.org/"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="30" hspace="6"/></a><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" hspace="6"/></a><a href="https://react.dev/"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" hspace="6"/></a><a href="https://www.javascript.com/"><img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/835865f4-069c-404c-a6be-07f24f92c231.png" width="45" hspace="8"/></a><a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30" hspace="6"/></a><a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="50" hspace="8"/></a><a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="55" hspace="8"/></a><a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="30" hspace="6"/></a><a href="https://nginx.org/"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="30" hspace="6"/></a><a href="https://httpd.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" width="55" hspace="8"/></a><a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="35" hspace="6"/></a><a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="30" hspace="6"/></a><a href="https://www.redhat.com/"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="30" hspace="6"/></a><a href="https://www.vim.org/"><img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="30" hspace="6"/></a><a href="https://redis.io/"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="30" hspace="6"/></a><a href="https://istio.io/"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" width="55" hspace="8"/></a><a href="https://maven.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" width="50" hspace="8"/></a>
 </p>
 
 ---
@@ -111,6 +79,7 @@
   </tr>
   <tr>
     <td>
+      <ul>
       <li>🚀 <a href="https://github.com/KarthikSaladi047/Azure-Pipeline-Project">Azure Pipeline Project</a></li>
       <li>🤖 <a href="https://github.com/KarthikSaladi047/Jenkins-Project">Jenkins Project</a></li>
       <li>🔧 <a href="https://github.com/KarthikSaladi047/Ansible-Project">Ansible Project</a></li>
@@ -118,6 +87,7 @@
       <li>🧑🏻‍💻 <a href="https://github.com/KarthikSaladi047/maven-pipelinep">Jenkins + Scripting Project</a></li>
       <li>🏗️ <a href="https://github.com/KarthikSaladi047/argocd-project">Argocd Project</a></li>
       <li>🔎 <a href="https://github.com/KarthikSaladi047/Prometheus-Monitoring">Prometheus  Monitoring</a></li>
+        </ul>
     </td>
     <td>
       <ul>
@@ -182,43 +152,43 @@
 
 <!---
 <p align="center"> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/en-in/products/devops/"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/c08400fe-f179-4af0-9db0-33dbb52dac01.png" alt="azure_devops" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkis" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/></a>
+    <a href="https://azure.microsoft.com/en-in/products/devops/"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/c08400fe-f179-4af0-9db0-33dbb52dac01.png" alt="azure_devops" width="60" height="60"/></a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="60"/></a>
+    <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="60" height="60"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/></a> 
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60"/></a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkis" width="60" height="60"/></a> 
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="60" height="60"/></a>
 </p>
 <p align="center">
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="140" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="140" height="60"/></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a>
+    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="60" height="60"/></a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git_hub" width="60" height="60"/></a>
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic_search" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
+    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic_search" width="60" height="60"/></a>  
 </p>
 <p align="center">
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="60" height="60"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react_js" width="60" height="60"/></a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/KarthikSaladi047/KarthikSaladi047/assets/105864615/835865f4-069c-404c-a6be-07f24f92c231.png" alt="Java_script" width="90" height="60"/></a>
-    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="100" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo_db" width="110" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="100" height="60"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongo_db" width="110" height="60"/></a>
+    <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="60" height="60"/></a>
 </p>
 <p align="center">
     <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="60" height="60"/></a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="110" height="60"/></a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/></a> &nbsp;&nbsp;
-    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="110" height="60"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="70" height="60"/></a>
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="60"/></a>
+    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="60" height="60"/></a>
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="60" height="60"/></a> 
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="60" height="60"/></a>
     <a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="isto" width="110" height="60"/></a>
     <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="100" height="60"/></a>
 </p>
