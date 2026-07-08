@@ -81,7 +81,8 @@
   <tr>
     <td>
       <ul>
-      <li>🤖 <a href="https://github.com/KarthikSaladi047/MLOps-Pipeline">MLOps Pipeline</a></li>
+        <li>🎰 <a href="https://github.com/KarthikSaladi047/MLOps-with-Kubeflow">MLOps with Kubeflow</a></li>
+        <li>🤖 <a href="https://github.com/KarthikSaladi047/MLOps-Pipeline">Standard MLOps Pipeline</a></li>
         </ul>
     </td>
     <td>
